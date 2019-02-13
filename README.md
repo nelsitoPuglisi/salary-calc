@@ -1,4 +1,4 @@
-# salary-calc
+## salary-calc
 
 ## Project setup
 ```
